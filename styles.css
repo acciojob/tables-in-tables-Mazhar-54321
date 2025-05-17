@@ -5,7 +5,6 @@ table{
 }
 tr,td,th{
 	width:300px;
-	
 	border:1px solid black;
 	text-align:center
 }
